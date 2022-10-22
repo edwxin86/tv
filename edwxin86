@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="MUSICA", CNC
-https://hvtrafico.ddns.net/pastocnc9/cnc9/chunklist_w1140074445.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvNkGRt_5W-JXiLZ6eB-quFgGpj-Pnc0PqHRf9RMMD-9b8muP4rHDPlW2KzzpjPhbMg&usqp=CAU" group-title="MUSICA", CNC
+https://hvtrafico.ddns.net/pastocnc9/cnc9/chunklist_w731676466.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVds7JLYrrYAQNsm8yWriF1_62yRX2WFiS-gk91bwQxXVnc-M3eyT7HtI0O5tZ39mLHc&usqp=CAU" group-title="MUSICA", CNC PLUS
+https://hvtrafico.ddns.net/channelplus/channelplus/chunklist_w2097456871.m3u8
 
 #EXTINF:-1 tvg-logo="https://orbitcable.com.do/wp-content/uploads/2019/03/logo-85x48.png" group-title="MUSICA", Orbit Tv
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w266340320.m3u8
@@ -7,56 +10,44 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w266340320.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="MUSICA",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telexima.jpg" group-title="MUSICA",TELEXIMA
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
-
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" group-title="MUSICA",TELEMAX
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w1120131529.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegre-tv.jpg" group-title="MUSICA",Alegre Tv
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg" group-title="MUSICA",CANELA TV
-https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="MUSICA", CANELA TV
+https://stream.ads.ottera.tv/cl/173e4d0a-de53-440c-9e0f-ab415a6723bf/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/ic805a4bf67209e97/version/1638234446/image. png" group-title="MUSICA", PLANETATV NIÑOS
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w2035519650.m3u8
+#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA", PLANETATV KIDS
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w83449595.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" group-title="MUSICA",Chinola TV
-https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA", PLANETATV MOVIE
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1398088780.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s5c68457729779a61/image/i9e06b630cbc2629e/version/1638235381/image. png" group-title="MUSICA", PLANETATV PELÍCULA
-https://scl.edge.grupoz.cl/movie/live/chunklist_w1303485050.m3u8
+#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA", PLANETATV MUSIC
+https://scl.edge.grupoz.cl/music/live/chunklist_w941057022.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="MUSICA", EL CHAVO TELEVISIÓN
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBgJbccP_c9GPRtjyN5LvYh_eF0cu6DOjjqTaL_ENQlFnRjbNTrFF32ld3hUsnPVyQLI&usqp=CAU" group-title="MUSICA", CNC HD ONLINE
+https://hvtrafico.ddns.net/cnconline/cnconline.stream/chunklist_w1438050183.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", GALERAS TV
-http://pastocnc1.ddns.net:1935/pastocnc8/cnc8/chunklist_w151043280.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/GALERAS-TV.jpg" group-title="MUSICA", GALERAS TV
+https://hvtrafico.ddns.net/pastocnc8/cnc8/chunklist_w121874578.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", SON CORAZON
-http://pastocnc1.ddns.net:1935/pastocnc3/cnc3/chunklist_w1659536398.m3u8
+#EXTINF:-1 tvg-logo="https://tvcorazonlatino.uk/wp-content/uploads/2021/06/logo_1.png" group-title="MUSICA", SON CORAZÓN
+https://hvtrafico.ddns.net/pastocnc3/cnc3/chunklist_w1379514589.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", SENTIMIENTO VALLENATO
-http://pastocnc1.ddns.net:1935/pastocnc4/cnc4/chunklist_w1504254120.m3u8
+#EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/11248/17816/conversions/sonlatino-lg.webp" group-title="MUSICA", SON LATINO
+https://hvtrafico.ddns.net/pastocnc2/cnc2/chunklist_w1604860608.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478063501/258356_177666372291417_177666118958109_438218_5333183_o_400x400.jpg" group-title="MUSICA", SON LATINO
-http://pastocnc1.ddns.net:1935/pastocnc2/cnc2/chunklist_w576592154.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-Son-Popular-en-vivo.jpg" group-title="MUSICA", SON POPULAR
+https://hvtrafico.ddns.net/pastocnc7/cnc7/chunklist_w1684357931.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", SON POPULAR
-http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/chunklist_w737961775.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-quwvedkodjLrJKlGRPb25phD3ou1t21r_A&usqp=CAU" group-title="MUSICA", SENTIMIENTO VALLENATO
+https://hvtrafico.ddns.net/pastocnc4/cnc4/chunklist_w1910369833.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="MUSICA", CNC HD ONLINE
-https://hvtrafico.ddns.net/cnconline/cnconline.stream/chunklist_w649270901.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/887b11a360fe1e8599352475f1f4624b50b29a872e4407aa7369b294de5392ea.png" group-title="MUSICA", Amordiscos TV
-https://tv.mediaserver.com.co:8088/live/Amordiscos.m3u8?hls_ctx=2n09mu6r
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/telemusica.tv/wp-content/uploads/2021/02/co-telemusica-tv-8417.png?resize=150%2C150&ssl= 1" group-title="MÚSICA", Telemúsica Tv
-https://tv.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=65699e18
-
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="MUSICA", Planetatv Music
-https://scl.edge.grupoz.cl/music/live/chunklist_w792726504.m3u8
+#EXTINF:-1 tvg-logo="https://raythomas.co.uk/images/Hit-Channel-horizontal-logo-800px.png" group-title="MUSICA", HITS CHANNEL
+https://hvtrafico.ddns.net/pastocnc1/cnc1/chunklist_w659824666.m3u8
 
 #EXTINF:-1 tvg-logo="https://mlu6o1cxzib9.i.optimole.com/TzPm5go-co0MmWFu/w:auto/h:auto/q:90/https://serenotv.com/wp-content/ webp-express/webp-images/doc-root/wp-content/uploads/2022/01/canal-carolina-tv-en-vivo-300x193.jpg.webp" group-title="MUSICA", Carolina tv
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
@@ -70,5 +61,53 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/417ee46eba4fe6161a809d808fa8e053.png" group-title="MÚSICA", Portal Fox Mix
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/430a862c5c9cddbd3856cbdf8068b6be.png" group-title="MUSICA", Tu Musica HD
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4578.gif" group-title="MUSICA", Ranchenato TV
+http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w592184836.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleamiga.tv/wp-content/uploads/2022/03/cropped-cropped-teleamiga-web-Logo-Blanco-01-1.png" group-title="MUSICA", Teleamiga Channel
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png" group-title="MUSICA", TELEMUSICA Tv
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png" group-title="MUSICA", TELEMUSICA Tv
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=pkll01k8
+
+#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="MUSICA", Amordisco Tv
+https://canal.mediaserver.com.co:8088/hls/Amordiscos.m3u8
+
+#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="MUSICA", Amordisco Tv
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=7b932y8v
+
+#EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png" group-title="MUSICA", MelodyChannel
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png" group-title="MUSICA", MelodyChannel
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=83uz743f
+
+#EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", Canal 88 Stereo
+http://k88.usastreams.com/CableLatino/88stereo/chunklist_w1826141739.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" group-title="MUSICA", City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/chunklist_w1243842970.m3u8
+
+#EXTINF:-1 tvg-logo="https://maimontvdigital.com/images/maimontvdigital_web.png" group-title="MUSICA", MAIMON TV DIGITAL
+https://ss9.domint.net:3038/mtvd_str/miamontv/chunklist_w2069918547.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Music_Top.png" group-title="MUSICA", Music Top 
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w725434007_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="MUSICA", Máxima Music TV
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w708589663.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sitvhn.com/img/siTVlogo.png" group-title="MUSICA", Si TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w905090839.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomorazan.net/wp-content/uploads/2020/09/soltv_logo.png" group-title="MUSICA", Sol TV 
+https://rtmp.info/soltv/envivo/chunklist_w1719000376.m3u8
+
+#EXTINF:-1 tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-SEGUNDO-SEMESTRE.png" group-title="MUSICA", Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w358796428.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/81fa2c281920154cd8ef9a5bf015625d.webp" group-title="MUSICA", Visual Radio TV
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist_w533891652.m3u8
