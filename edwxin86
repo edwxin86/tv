@@ -23,7 +23,7 @@ https://cdn2.streamgato.us/telemax/telemax/chunklist_w1120131529.m3u8
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="MUSICA", CANELA TV
-https://stream.ads.ottera.tv/cl/173e4d0a-de53-440c-9e0f-ab415a6723bf/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/922b5f85-bb0c-4f88-8155-2ff88db97f41/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w83449595.m3u8
@@ -78,9 +78,6 @@ https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png" group-title="MUSICA", TELEMUSICA Tv
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=pkll01k8
-
-#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="MUSICA", Amordisco Tv
-https://canal.mediaserver.com.co:8088/hls/Amordiscos.m3u8
 
 #EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="MUSICA", Amordisco Tv
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=7b932y8v
