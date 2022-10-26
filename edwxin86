@@ -114,3 +114,57 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w358796428.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/81fa2c281920154cd8ef9a5bf015625d.webp" group-title="MUSICA", Visual Radio TV
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist_w533891652.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2019/08/Latina-101.9-fm-300-1.png?fit=300%2C200&ssl=1" group-title="Emisoras", Latina 101.9Fm la emisora 
+https://centova.intervenhosting.net/proxy/latina101/stream
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2019/09/LOGO-LATINA-95-9-FM-300.png?fit=300%2C200&ssl=1" group-title="Emisoras", Latina 95.9Fm la emisora
+https://centova.intervenhosting.net/proxy/latina95/stream
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2019/09/RADIO-SHOW-991-300.png?fit=300%2C200&ssl=1" group-title="Emisoras", Radio Show 99.1fm la emisora
+https://centova.intervenhosting.net/proxy/radioshow/stream
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/21793.v7.png" group-title="Emisoras", Tropicana Pasto 100.1 MHz FM
+https://26373.live.streamtheworld.com/TR_PASTOAAC.aac?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/22369.v11.png" group-title="Emisoras", Radio 1 Pasto 94.1 MHz FM
+https://26683.live.streamtheworld.com/RADIO_UNO_PASTOAAC.aac?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/0/57480.v28.png" group-title="Emisoras", Radio Policía Pasto 89.5 FM
+http://190.255.40.78:4445/pasto
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/24727.v5.png" group-title="Emisoras", ROMANTICA STEREO Pasto, 88.1 MHz FM
+http://radiolatina.info:7096/;
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/102374.v6.png" group-title="Emisoras", Kapital radio Pasto Pasto, 104.1 MHz FM
+https://radiolatina.info/8026/stream
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/0/81340.v6.png" group-title="Emisoras", Tropicanal Tropical Pasto, 98.9 MHz FM
+https://stream-37.zeno.fm/s7znfh2929duv?zs=6x5Tv2esRUKNeruOk7tFDw
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/22303.v6.png" group-title="Emisoras", La X Electrónica
+https://tupanel.info:2000/stream/2digitalradioHDsslLIVE020?1629180198409
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/77773.v2.png" group-title="Emisoras", Superlatinradio
+https://radio25.virtualtronics.com/proxy/superlatin?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/46408.v10.png" group-title="Emisoras", La Kalle Bogotá, 96.9 MHz FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE.mp3?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/80013.v4.png" group-title="Emisoras", La Viejoteca de Mao
+http://radiohd.streaminghd.co:9382/stream
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/1/21551.v9.png" group-title="Emisoras", La Cariñosa Pasto 1460 kHz AM
+https://26673.live.streamtheworld.com/LA_CARINOSA_PASTOAAC.aac?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/6/91486.v3.png" group-title="Emisoras", Radio Reloj Pasto Pasto, 1130 kHz AM
+http://s13.myradiostream.com:37936/listen
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/72114.v2.png" group-title="Emisoras", La Voz del Galeras Pasto, 1010 kHz AM
+http://65.60.45.74:8094/;
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/4/58074.v9.png" group-title="Emisoras", Ecos de Pasto Pasto, 740 kHz AM
+http://s3.myradiostream.com:7282/listen
+
+#EXTINF:-1 tvg-logo="http://us0-cdn.onlineradiobox.com/img/l/9/88679.v9.png" group-title="Emisoras", Magic Kids FM
+http://190.106.134.219:8197/index.html;stream.nsv
