@@ -19,6 +19,9 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1618481907.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="CANALES", Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w122023274_b2000000_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="CANALES", COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="CANALES",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8  
 
