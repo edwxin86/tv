@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="CANALES", CANAL CNC Pasto
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvNkGRt_5W-JXiLZ6eB-quFgGpj-Pnc0PqHRf9RMMD-9b8muP4rHDPlW2KzzpjPhbMg&usqp=CAU" group-title="CANALES", CANAL CNC Pasto
 https://hvtraficonew.ddns.net/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg" group-title="CANALES", Telepasto
@@ -19,7 +19,7 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1618481907.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="CANALES", Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w122023274_b2000000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="MUSICA",MEGA CINE TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="CANALES",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8  
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CANALES", Terror TV
