@@ -5,7 +5,7 @@ https://hvtraficonew.ddns.net/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleamiga.tv/wp-content/uploads/2022/03/cropped-cropped-teleamiga-web-Logo-Blanco-01-1.png" group-title="CANALES", Tele Amiga
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive/chunklist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="CANALES", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1617937740.m3u8
@@ -31,29 +31,23 @@ https://tv.streaming-chile.com:1936/8140/8140/chunklist_w936559979.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/re/public/logos/weVy6A9B_400x400_5.webp?itok=62TQDJIz" group-title="CANALES", Ciudad Magica Tv
 https://vd01.streaminghd.net.ar:3983/multi_live/play_src.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/super-tv.png?itok=_jxMANWS" group-title="CANALES", Super TV
-https://stmv5.voxtvhd.com.br/supertv/supertv/chunklist_w1678268406.m3u8
-
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/saraqui.jpg?itok=qrNjsrbA" group-title="CANALES", STV SarapiquíTV 
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_tv-peliculas.jpg?itok=3dW9pxo6" group-title="CANALES", Runtime
-https://stream.ads.ottera.tv/cl/231028ckum3h81sj4fscdpit5g/1280x720_3071200_0_f.m3u8?i=728_2154
+https://stream.ads.ottera.tv/cl/240220cnacqku3fi0h1negi7mg/1280x720_3071200_0_f.m3u8?i=728_2550
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_las_action.jpg?itok=raqVJkT3" group-title="CANALES", Runtime Acción
 https://stream.ads.ottera.tv/cl/231028ckum3dhra6jds2di4kvg/1280x720_3071200_0_f.m3u8?i=728_2550
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_romance.jpg?itok=GvJY6hG0" group-title="CANALES", Runtime Romance
-https://stream.ads.ottera.tv/cl/231028ckulki0ji6silj46uj8g/1280x720_3071200_0_f.m3u8?i=475_3532
+https://stream.ads.ottera.tv/cl/240220cnacrfs4f1343rqe7j4g/1280x720_3071200_0_f.m3u8?i=728_6119
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_familia.jpg?itok=j5vKsLz4" group-title="CANALES", Runtime Familia
-https://stream.ads.ottera.tv/cl/231028ckulkj67d38mrm0aha1g/1280x720_3071200_0_f.m3u8?i=475_3528
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_thriller.jpg?itok=JJhc79O8" group-title="CANALES", Runtime Thriller
-https://stream.ads.ottera.tv/cl/231028ckum3fggv6ts5dk814u0/1280x720_3071200_0_f.m3u8?i=475_3529
+https://stream.ads.ottera.tv/cl/240220cnacsttbo7mk30jnoimg/1280x720_3071200_0_f.m3u8?i=728_6118
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_crimen.jpg?itok=-5jcE9ne" group-title="CANALES", Runtime Crimen
-https://stream.ads.ottera.tv/cl/231028ckum3go1sj4fscdpisvg/1280x720_3071200_0_f.m3u8?i=475_3533
+https://stream.ads.ottera.tv/cl/240220cnacu483f1vnb802qjsg/1280x720_3071200_0_f.m3u8?i=728_6129
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="CANALES", Canela Cinema 
 https://ov.ottera.tv/channels/cnm_cn_mv/master2300000.m3u8;session=cnm_cn_mv
