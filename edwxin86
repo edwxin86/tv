@@ -4,14 +4,32 @@ https://hvtraficonew.ddns.net/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg" group-title="CANALES", Telepasto
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://teleamiga.tv/wp-content/uploads/2022/03/cropped-cropped-teleamiga-web-Logo-Blanco-01-1.png" group-title="CANALES", Tele Amiga
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png" group-title="CANALES", ORIGEN TV
+https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cableondaoriental.com/wp-content/uploads/2020/12/logo-cable-onda-oriental.svg" group-title="CANALES", ONDA TV
+https://ss5.domint.net:3176/otv_str/ondatv/chunklist_w2044988068.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg" group-title="CANALES", FMCOSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="CANALES", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1617937740.m3u8
 
 #EXTINF:-1 tvg-logo="https://area593.com/wp-content/uploads/2020/06/logowhiteGRANDE.png" group-title="CANALES", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cascaratv.com/wp-content/uploads/2023/12/cropped-cropped-logo-cascara-1.png" group-title="CANALES", CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w726730712.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png" group-title="CANALES", SPTV DIGITAL HD TV
+https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w492721548.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CANALES", RETROX TV
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="CANALES", Canela Cinema 
+https://ov.ottera.tv/channels/cnm_cn_mv/master2300000.m3u8;session=cnm_cn_mv
 
 #EXTINF:-1 tvg-logo="https://www.colosalstereo.com/IMG/BotonRadio.png" group-title="CANALES", COLOSAL TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1618481907.m3u8
@@ -33,24 +51,6 @@ https://vd01.streaminghd.net.ar:3983/multi_live/play_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/saraqui.jpg?itok=qrNjsrbA" group-title="CANALES", STV SarapiquíTV 
 https://lstv.duckdns.org:449/hls/stv.m3u8
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_tv-peliculas.jpg?itok=3dW9pxo6" group-title="CANALES", Runtime
-https://stream.ads.ottera.tv/cl/240220cnacqku3fi0h1negi7mg/1280x720_3071200_0_f.m3u8?i=728_2550
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_las_action.jpg?itok=raqVJkT3" group-title="CANALES", Runtime Acción
-https://stream.ads.ottera.tv/cl/231028ckum3dhra6jds2di4kvg/1280x720_3071200_0_f.m3u8?i=728_2550
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_romance.jpg?itok=GvJY6hG0" group-title="CANALES", Runtime Romance
-https://stream.ads.ottera.tv/cl/240220cnacrfs4f1343rqe7j4g/1280x720_3071200_0_f.m3u8?i=728_6119
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_familia.jpg?itok=j5vKsLz4" group-title="CANALES", Runtime Familia
-https://stream.ads.ottera.tv/cl/240220cnacsttbo7mk30jnoimg/1280x720_3071200_0_f.m3u8?i=728_6118
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_crimen.jpg?itok=-5jcE9ne" group-title="CANALES", Runtime Crimen
-https://stream.ads.ottera.tv/cl/240220cnacu483f1vnb802qjsg/1280x720_3071200_0_f.m3u8?i=728_6129
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="CANALES", Canela Cinema 
-https://ov.ottera.tv/channels/cnm_cn_mv/master2300000.m3u8;session=cnm_cn_mv
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a92c2108c2636d87761afe4902bfe3d4.webp" group-title="CANALES", Canela TV 
 https://ov.ottera.tv/channels/cnm_ctm_ro/master2300000.m3u8;session=cnm_ctm_ro
