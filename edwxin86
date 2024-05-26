@@ -220,6 +220,9 @@ https://vdo2.streamgato.us:3886/stream/play.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1744955414.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="MUSICA", PLANETA TV Music
+https://tls-cl.cdnz.cl/planetatv_envivo/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="MUSICA", PLANETA TV Music
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716776812/ei/C5tTZtvMPJrJzN0PovuWyAI/ip/2800:e2:c500:591:e6d5:f19f:2f38:ca28/id/256a95b615f051f9/itag/232/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D749811%3Bdur%3D6.127%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1701635056281977/rqh/1/hls_chunk_host/rr2---sn-0ox-cvbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/xw/mm/31,29/mn/sn-0ox-cvbs,sn-cvb7lnls/ms/au,rdu/mv/m/mvi/2/pcm2cms/yes/pl/54/initcwndbps/1287500/vprv/1/playlist_type/DVR/dover/13/txp/630A224/mt/1716754847/fvip/2/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIgNx2TfznnEz8Nx6RU4TaeNf8_vr-5MbsEpD18dBGpWGICIQDiamGi8GaWKDwtrp8dK8-LKMFtk6ONDohRiosLzsCIng%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/AHWaYeowRgIhAJFQHibgunZpVqXB_l9kQaFuFnUKxjL9nHYrW9n5lYHlAiEA2fCdzYfQk1XsoFFKleVxlwghZMUQ8S6ZQvHjIwSOnT0%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rr5100.globalhost1.com/cp/musiclibrary/nowplay_infinita.png?title=isabel-pantoja---porque-me-gusta-a-morir" group-title="MUSICA", Infinita Miusic
