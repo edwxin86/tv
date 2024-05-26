@@ -44,7 +44,7 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8  
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CANALES", Terror TV
-https://tv.streaming-chile.com:1936/8140/8140/chunklist_w936559979.m3u8
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=345623706&e=s&n=1057322965708860&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=6vq7rtsvtfsg&i=0&lid=nxnmprz8uqr5&lsa=read&mt=0&pbd=1&pbr=1&pgi=10dup9lkvw6h&ph=0&pii=0&pl=507&plc=1&pli=cgzsz8isssaw&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=NeoTV%20-%20Terror%20TV&pu=https%3A%2F%2Fneotv.cl%2Fcanal%3Fslug%3Dterror-tv&pv=8.27.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=Terror%20TV%20-%20En%20vivo&tv=4.0.5&vb=1&vi=1&vl=61&wd=902&abm=1&bwe=11417&cae=0&cct=0&ch=2&cst=12.011999999999999&cdid=player&drm=0&ff=720&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftv.streaming-chile.com%3A19360%2F8140%2F8140.m3u8&pcp=12&pd=3&pdr=https%3A%2F%2Fneotv.cl%2Fcanal%3Fslug%3Dterror-tv&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=720&tb=16&tt=0&vd=0&vh=1080&vs=0&vw=1920&sa=1716754752502
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg" group-title="CANALES", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
