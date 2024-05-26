@@ -46,6 +46,78 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CANALES", Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w936559979.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg" group-title="CANALES", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="CANALES",  TIGUERITOS TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w1517764010.m3u8 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpXF42Pr8P0PoXw-mKCZnLy01YNLXFJBmEiXscpV3U0mjeBOlvqP1PRrJrN-k-npDmlxvXAOKSjbD2-DvSgxCA-UcImjJ1VltG08E9DJ_kS7OwFM8lJyeTBUZHppUlGyiEziqDhvfgYGA/w168-h168/Canal+34+de+San+Juan+en+vivo.png" group-title="CANALES", Canal 34 de San Juan
+https://streamyes.alsolnet.com/canal34hd/live/chunklist_w2121091674.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2023/01/Sin-titulo-1.png" group-title="CANALES", MULTICANAL TV
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1MARSqh5D7hPUc4qhJMQcz4KnaWUzs4PkTXxJvnl.png" group-title="CANALES", Multizonas TV
+https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/tg2zd8Y3UauUKne96WlGe7HH8s8yq8P3VRja7QDV.png" group-title="CANALES", Megahits Tv
+https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w1468345016.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/s3ldDvPV5migLlpYn0b6jxqWGZiZGKugHO67JlpI.jpg" group-title="CANALES", Retro Tv
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7XOx8MGV7Lu0SAuqp9qVHzXYjRgIYiY_0AvQqx1HXA&s" group-title="CANALES", SonyCine Tv
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" group-title="CANALES", Max Cartoon Tv
+https://ssh101.bozztv.com/ssh101/visionamerica/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Moy3tTzOeCPDPGVMdMFU64qRocSPWbsHBupbvg36.jpg" group-title="CANALES", Magic Kids Tv
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/9bhehKQYFX6WVPsgSl5anUp22vglgQXrXK2qgzBj.png" group-title="CANALES", Boing Tv
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/chunklist_b2700000_vo.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/0B4kqwqm0uPtC5cUZQ4TijnS9na4zJow2nvc3NoC.png" group-title="CANALES", Peque Radio Tv
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/pandamax.png" group-title="CANALES", Panda Max TV
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=22205603
+
+
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/hits-360.png" group-title="MUSICA",  Hits 360 TV
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.modoradio.cl/wp-content/uploads/2021/03/mrlogo2017-e1665818625267.png" group-title="MUSICA", ModoRadio TV
+https://wifiexpert-1.energeek.cl/energeek/modoradio/chunks.m3u8?nimblesessionid=22206162
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/m059dAJFW0BV2IqATgbIOfkoJTalEcOQnaKDjirp.png" group-title="MUSICA", Super Radio Tv
+https://vcp8.myplaytv.com:1936/iqchannel/iqchannel/chunklist_w987501988.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/la-super-discoteca-tv.png" group-title="MUSICA", La super discoteca TV
+https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/peravia_vision_canal_8_bani.jpg" group-title="MUSICA", Peravia Vision TV
+https://ss5.domint.net:3048/pvv_str/peravia/chunklist_w7424583.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/2SnekmW0Om5tFH5H8zctNobtw3YaQvgjRoIj4C4o.jpg" group-title="MUSICA", 96.3 Centro TV
+https://vcp8.myplaytv.com:1936/meganetretro/meganetretro/chunklist_w253337204.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telerumba.png" group-title="MUSICA", Telerumba TV
+https://inliveserver.com:1936/18506/18506/chunklist_w1234662427.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg" group-title="MUSICA", Cantina Tv
+https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w933658359.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/eIdpCJMxxs0cq10FKB02wXeyprxutS6lf2jI3yg8.png" group-title="MUSICA", Memorias Tv
+https://ssh101-fl.bozztv.com/ssh101/musica/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/e5Zcxai0iajH0mR7uDlzAQOQZHPvQIwl2mNQnqMb.jpg" group-title="MUSICA", Soy Plancha Tv
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/re/public/logos/weVy6A9B_400x400_5.webp?itok=62TQDJIz" group-title="CANALES", Ciudad Magica Tv
 https://vd01.streaminghd.net.ar:3983/multi_live/play_src.m3u8
 
