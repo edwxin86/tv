@@ -10,6 +10,9 @@ https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg" group-title="CANALES", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitv202322.png" group-title="CANALES", Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://cableondaoriental.com/wp-content/uploads/2020/12/logo-cable-onda-oriental.svg" group-title="CANALES", ONDA TV
 https://ss5.domint.net:3176/otv_str/ondatv/chunklist_w2044988068.m3u8
 
