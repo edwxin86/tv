@@ -4,6 +4,12 @@ https://hvtraficonew.ddns.net/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg" group-title="CANALES", Telepasto
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7XOx8MGV7Lu0SAuqp9qVHzXYjRgIYiY_0AvQqx1HXA&s" group-title="CANALES", SonyCine Tv
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CANALES", Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png" group-title="CANALES", ORIGEN TV
 https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 
@@ -44,16 +50,13 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w12202327
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb8c01f83f28e273af1edd823437795d.webp" group-title="CANALES", Todo Cine 
-https://stream.ads.ottera.tv/cl/240526cp9qev98g9ukdgsre860/1920x1080_4403200_5_f.m3u8?i=475_4565
+https://stream.ads.ottera.tv/cl/240608cpibrn5caklpe000gd2g/960x540_2048000_4_f.m3u8?i=475_4565
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png" group-title="CANALES", SPTV DIGITAL HD TV
 https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w492721548.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="CANALES",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8  
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CANALES", Terror TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpXF42Pr8P0PoXw-mKCZnLy01YNLXFJBmEiXscpV3U0mjeBOlvqP1PRrJrN-k-npDmlxvXAOKSjbD2-DvSgxCA-UcImjJ1VltG08E9DJ_kS7OwFM8lJyeTBUZHppUlGyiEziqDhvfgYGA/w168-h168/Canal+34+de+San+Juan+en+vivo.png" group-title="CANALES", Canal 34 de San Juan
 https://streamyes.alsolnet.com/canal34hd/live/chunklist_w2121091674.m3u8
@@ -70,9 +73,6 @@ https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w1468345016.m3u
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/s3ldDvPV5migLlpYn0b6jxqWGZiZGKugHO67JlpI.jpg" group-title="CANALES", Retro Tv
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7XOx8MGV7Lu0SAuqp9qVHzXYjRgIYiY_0AvQqx1HXA&s" group-title="CANALES", SonyCine Tv
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" group-title="CANALES", Max Cartoon Tv
 https://ssh101.bozztv.com/ssh101/visionamerica/chunks.m3u8
 
@@ -86,17 +86,16 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/chunk
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/pandamax.png" group-title="CANALES", Panda Max TV
-https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=22205603
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=24968734
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="CANALES",  TIGUERITOS TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w1517764010.m3u8 
-
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/hits-360.png" group-title="MUSICA",  Hits 360 TV
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.modoradio.cl/wp-content/uploads/2021/03/mrlogo2017-e1665818625267.png" group-title="MUSICA", ModoRadio TV
-https://wifiexpert-1.energeek.cl/energeek/modoradio/chunks.m3u8?nimblesessionid=22206162
+https://wifispeed.trapemn.tv:1936/energeek/modoradio-p/chunks.m3u8?nimblesessionid=59424225
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/m059dAJFW0BV2IqATgbIOfkoJTalEcOQnaKDjirp.png" group-title="MUSICA", Super Radio Tv
 https://vcp8.myplaytv.com:1936/iqchannel/iqchannel/chunklist_w987501988.m3u8
