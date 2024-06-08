@@ -85,6 +85,9 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/chunk
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/0B4kqwqm0uPtC5cUZQ4TijnS9na4zJow2nvc3NoC.png" group-title="CANALES", Peque Radio Tv
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://lancotelevision.cl/wp-content/uploads/2023/03/Sin-titulo-250-%C3%97-150-px-1.png" group-title="CANALES",LANCO TV
+https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w1932461041.m3u8
+
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/pandamax.png" group-title="CANALES", Panda Max TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=24968734
 
